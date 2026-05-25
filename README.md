@@ -1,22 +1,21 @@
 <p align="center">
-  
-  <!-- Left Side Pokémon -->
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="90"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="90"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="90"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="90"/>
+
+  <!-- Left Team -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="80"/>
 
   <!-- Ash -->
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAi/pokemon-ash.gif" width="180"/>
+  <img src="https://media.tenor.com/9wFPJatTvacAAAAi/ash-ketchum-pokemon.gif" width="140"/>
 
-  <!-- Right Side Pokémon -->
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/658.gif" width="90"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="90"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/392.gif" width="90"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="90"/>
+  <!-- Right Team -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/392.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/658.gif" width="80"/>
 
 </p>
-
 # 💫 About Me:
 🔭 What I’m building:<br>Working on scalable full-stack apps that blend **AI and Web3** — think smart, creative systems powered by LLMs and backed by decentralized logic. Basically, teaching AI to play nice with the blockchain (and vice versa).<br>🤝 Who I want to team up with<br>Folks who get excited about mixing AI with Web3 magic — hackathon warriors, open-source tinkerers, and anyone who thinks “MLOps” and “blockchain” belong in the same sentence.<br>🤔 What I could use a hand with<br>Making decentralized apps actually *decentralized* — faster, safer, and scalable without needing a prayer and a server reboot.<br>🌱 What I’m learning right now<br>Deep-diving into cryptography for IoT/IoE, cloud-native AI deployment (AWS & GCP), and blending Next.js with Solidity to make cross-platform ideas come alive.<br>💬 Stuff I can talk about for hours<br>React, Node.js, Tailwind, MongoDB, Web3, Generative AI, and crafting authentication flows that don’t make users rage-quit.<br>⚡Fun fact:<br>I treat hackathons like playgrounds — powered by caffeine and chaos, I somehow turn weekend experiments into production-ready prototypes.<br>
 
