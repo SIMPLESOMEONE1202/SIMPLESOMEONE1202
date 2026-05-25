@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;WELCOME+TRAINERS;INITIALIZING+POKÉMON+GITDEX..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;WELCOME+TRAINERS;INITIALIZING+POKÉMON+GITEX..." />
 
 <br>
 <p align="center">
