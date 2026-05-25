@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"/>
+</p>
+
+
 # 💫 About Me:
 🔭 What I’m building:<br>Working on scalable full-stack apps that blend **AI and Web3** — think smart, creative systems powered by LLMs and backed by decentralized logic. Basically, teaching AI to play nice with the blockchain (and vice versa).<br>🤝 Who I want to team up with<br>Folks who get excited about mixing AI with Web3 magic — hackathon warriors, open-source tinkerers, and anyone who thinks “MLOps” and “blockchain” belong in the same sentence.<br>🤔 What I could use a hand with<br>Making decentralized apps actually *decentralized* — faster, safer, and scalable without needing a prayer and a server reboot.<br>🌱 What I’m learning right now<br>Deep-diving into cryptography for IoT/IoE, cloud-native AI deployment (AWS & GCP), and blending Next.js with Solidity to make cross-platform ideas come alive.<br>💬 Stuff I can talk about for hours<br>React, Node.js, Tailwind, MongoDB, Web3, Generative AI, and crafting authentication flows that don’t make users rage-quit.<br>⚡Fun fact:<br>I treat hackathons like playgrounds — powered by caffeine and chaos, I somehow turn weekend experiments into production-ready prototypes.<br>
 
